@@ -210,3 +210,6 @@ venv/
 __pycache__/
 *.pyc
 .env
+.DS_Store
+__pycache__
+artifact/*
